@@ -1,0 +1,9 @@
+{
+	"name": "df-pelayo-test-001",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19069aa4-bf51-480b-b92f-3854aa37da04",
+		"tenantId": "fc335fa3-e960-4cf4-a8c9-4d6b1d703162"
+	}
+}

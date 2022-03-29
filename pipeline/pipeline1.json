@@ -1,0 +1,21 @@
+{
+	"name": "pipeline1",
+	"properties": {
+		"activities": [
+			{
+				"name": "Fail1",
+				"description": "error",
+				"type": "Fail",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"message": "err",
+					"errorCode": "err"
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2022-03-09T17:10:40Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}
